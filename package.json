@@ -1,0 +1,20 @@
+{
+  "name": "zorkington",
+  "version": "1.0.0",
+  "description": "Instructions: http://bootcamp.burlingtoncodeacademy.com/projects/zorkington",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurlingtonCodeAcademy/zorkington.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BurlingtonCodeAcademy/zorkington/issues"
+  },
+  "homepage": "https://github.com/BurlingtonCodeAcademy/zorkington#readme"
+}
